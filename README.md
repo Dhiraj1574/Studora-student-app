@@ -19,7 +19,7 @@ Studora is a student productivity and management app built using Kotlin and Jetp
 ![Tasks](Output/Tasks-page.png)
 
 ### Attendance
-![Attendance](Output/Attendance-page.png)
+Output/Outputs/Attendance-page.png
 
 ### Profile
 ![Profile](Output/profile-page.png)
